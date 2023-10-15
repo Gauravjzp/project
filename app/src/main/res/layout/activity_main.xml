@@ -71,9 +71,9 @@
         android:layout_below="@id/signin"
         android:layout_marginLeft="50dp"
         android:layout_marginTop="129dp"
-        android:backgroundTint="@color/cardview_dark_background"
+        android:backgroundTint="@color/cardview_light_background"
         android:text="New User? Register now"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:textSize="10dp" />
 
 </RelativeLayout>
